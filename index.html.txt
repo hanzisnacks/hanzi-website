@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hanzi – Strength in Every Bite</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="logo">Hanzi</div>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#made">How It’s Made</a>
+      <a href="#buy" class="btn">Shop Now</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div class="hero-text">
+      <h1>Strength in Every Bite</h1>
+      <p class="sub">
+        Protein-packed cookies and biscuits made with high-quality whey protein.
+      </p>
+      <p>
+        Hanzi protein snacks combine great taste with real nutrition. Crafted using
+        whey protein to fuel your strength, energy, and everyday performance.
+      </p>
+      <div class="buttons">
+        <a href="https://instagram.com/yourbrandusername" class="btn primary">Order on Instagram</a>
+        <a href="#why" class="btn secondary">See Ingredients</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="https://via.placeholder.com/400" alt="Hanzi Protein Snacks">
+    </div>
+  </section>
+
+  <!-- WHY HANZI -->
+  <section class="why" id="why">
+    <h2>Why Hanzi?</h2>
+    <div class="cards">
+      <div class="card">Made with Whey Protein</div>
+      <div class="card">High Protein, Great Taste</div>
+      <div class="card">Perfect Anytime Snack</div>
+    </div>
+  </section>
+
+  <!-- HOW ITS MADE -->
+  <section class="made" id="made">
+    <h2>How It’s Made</h2>
+    <p>
+      Our cookies and biscuits are carefully baked using whey protein to deliver
+      strength, taste, and nutrition in every bite.
+    </p>
+  </section>
+
+  <!-- BUY -->
+  <section class="buy" id="buy">
+    <h2>Order Directly on Instagram</h2>
+    <a href="https://instagram.com/yourbrandusername" class="btn primary">Buy on Instagram</a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p><strong>Hanzi</strong> — Strength in Every Bite</p>
+    <a href="https://instagram.com/yourbrandusername">Instagram</a>
+  </footer>
+
+</body>
+</html>
+
